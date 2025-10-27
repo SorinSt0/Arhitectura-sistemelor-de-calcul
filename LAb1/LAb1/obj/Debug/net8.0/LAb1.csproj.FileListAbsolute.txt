@@ -1,0 +1,14 @@
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\bin\Debug\net8.0\LAb1.exe
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\bin\Debug\net8.0\LAb1.deps.json
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\bin\Debug\net8.0\LAb1.runtimeconfig.json
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\bin\Debug\net8.0\LAb1.dll
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\bin\Debug\net8.0\LAb1.pdb
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\LAb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\LAb1.AssemblyInfoInputs.cache
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\LAb1.AssemblyInfo.cs
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\LAb1.csproj.CoreCompileInputs.cache
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\LAb1.dll
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\refint\LAb1.dll
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\LAb1.pdb
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\LAb1.genruntimeconfig.cache
+C:\Users\jagua\OneDrive\Desktop\Lab1\LAb1\LAb1\obj\Debug\net8.0\ref\LAb1.dll
